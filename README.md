@@ -11,12 +11,10 @@ This repository is a **python** implementation of RLT ([DOI](https://dl.acm.org/
 - ```
   data/
   ```
-
   - origin/
     - sample.bmp
   - result/
     - result.bmp
-
 - `code/`: implementations of RLT
 
 ### Required packages
